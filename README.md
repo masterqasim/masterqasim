@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @masterqasim
+- 👋 Hi, I’m @masterqasim AWS Certified
 - 👀 I’m interested in Building containerized microservices,Advance Javascript and Advance CSS/SCSS based Projects
-- 🌱 I’m currently learning AWS and Kubernetes
+- 🌱 I’m currently learning metaverse and web3.0
 - 💞️ I’m looking to collaborate on Facebook
 - 📫 How to reach me masterqasim95@gmail.com
 - https://masterqasim95.wixsite.com/website
